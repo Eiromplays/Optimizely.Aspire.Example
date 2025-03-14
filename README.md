@@ -47,7 +47,7 @@ The application is configured using standard .NET configuration patterns, with a
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-This is primarily just to showcase 
+This is primarily just to showcase Aspire with Optimizely, so it will probably not change much.
 
 ## License
 
