@@ -14,7 +14,7 @@ The solution consists of several projects:
 ## Prerequisites
 
 - .NET 9.0 SDK or later
-- Docker Desktop (for running SQL Server and other dependencies)
+- Docker/Docker Desktop
 - Rider 2024 or Visual Studio 2022 or later (recommended) or VS Code
 
 ## Getting Started
