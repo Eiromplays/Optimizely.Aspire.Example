@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimizely.Aspire.Example.AppHost", "Optimizely.Aspire.Example.AppHost\Optimizely.Aspire.Example.AppHost.csproj", "{A16F4CCF-6DE4-48C7-9C3B-D979976547B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimizely.Aspire.Example.ServiceDefaults", "Optimizely.Aspire.Example.ServiceDefaults\Optimizely.Aspire.Example.ServiceDefaults.csproj", "{BE61061A-7095-4A10-B522-22D255784DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimizely.CMS", "Optimizely.CMS\Optimizely.CMS.csproj", "{D4D9D751-6BE7-4530-932F-8031A1056991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A16F4CCF-6DE4-48C7-9C3B-D979976547B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16F4CCF-6DE4-48C7-9C3B-D979976547B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16F4CCF-6DE4-48C7-9C3B-D979976547B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A16F4CCF-6DE4-48C7-9C3B-D979976547B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE61061A-7095-4A10-B522-22D255784DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE61061A-7095-4A10-B522-22D255784DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE61061A-7095-4A10-B522-22D255784DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE61061A-7095-4A10-B522-22D255784DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D9D751-6BE7-4530-932F-8031A1056991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D9D751-6BE7-4530-932F-8031A1056991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D9D751-6BE7-4530-932F-8031A1056991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D9D751-6BE7-4530-932F-8031A1056991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
